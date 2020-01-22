@@ -1,0 +1,6 @@
+framework module Pods_RXSwift_zccUITests {
+  umbrella header "Pods-RXSwift-zccUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
